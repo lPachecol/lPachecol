@@ -2,7 +2,7 @@
 
 Estudiante de Ciencias de la Computación en la **Escuela Politécnica Nacional**. Desarrollo proyectos de visión por computador y simulación de redes Cisco. También doy tutorías de redes y he impartido capacitaciones de inclusión digital en LudoLab EPN.
 
-[Portafolio](https://lpachecol.github.io/Pablo/) · [CV](https://lpachecol.github.io/Pablo/docs/pablo-pacheco-cv-definitivo.pdf) · [LinkedIn](https://www.linkedin.com/in/pablo-pacheco-075720293)
+[Portafolio](https://lpachecol.github.io/Pablo/) · [CV](https://lpachecol.github.io/Pablo/docs/pablo-pacheco-cv-definitivo.pdf?v=9a5d83c00b75) · [LinkedIn](https://www.linkedin.com/in/pablo-pacheco-075720293)
 
 ## Proyectos destacados
 
